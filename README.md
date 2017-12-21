@@ -18,7 +18,7 @@ To add a mentor open the file `mentors.yml` in `_data` folder and please maintai
   lng: Mentor's longitude
 ```
 **IMPORTANT:**
-- All images must be optimized before uploaded to the repository via commit or Pull Request. You may use any image optimizer of your choice.
+- All images must be optimized before uploaded to the repository via commit or Pull Request. You may use any image optimizer of your choice
 - All images must be in `img/mentors`.
 - The images should be 240 x 240 pixels.
 - If you do not want to include your social media accounts or coordinates , please do not provide empty fields like `facebook:`.
